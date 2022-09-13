@@ -1,7 +1,7 @@
 {
   "name": "react-timeline",
   "version": "0.1.0",
-  "homepage": "./react-timeline/build/",
+  "homepage": "/",
   "author": "rut-miit",
   "private": true,
   "dependencies": {
